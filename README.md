@@ -1,13 +1,13 @@
 # Data Analyst 
 
 ### Skills 
-Excel
-SQL
+Excel,
+SQL,
 Tableau
 
 ### Education & Certification
-Google Data Analytics Certification
-Business Administration, A.A.S
+- Google Data Analytics Certification
+- Business Administration, A.A.S
 
 ### Work Experience
 
